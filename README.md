@@ -1,4 +1,4 @@
-# ECG Classification with Neural ODE
+# ECG Classification with Deep Implicit Layers
 
 <img src="https://github.com/KevinyWu/KevinyWu/blob/main/images/neural_ode.png" alt="neural_ode" width="600"/>
 
