@@ -22,7 +22,7 @@ Simply run the Jupyter Notebook `ecg.ipynb`. Model training will take a while fo
 
 **Requirements**
 
-```
+``` txt
 numpy
 pandas
 scikit-learn
@@ -33,11 +33,11 @@ torchdiffeq
 
 ## File Tree
 
-```
-python_experiments
-│   ecg.ipynb - Notebook for training and testing models 
-│   models.py - Model functions
-│   utils.py - Other helper functions
+``` txt
+ecg-neural-ode
+├── ecg.ipynb - Notebook for training and testing models 
+├── models.py - Model functions
+├── utils.py - Other helper functions
 └───data
         mitdb_360_test.csv - Training data
         mitdb_360_train.csv - Test data
